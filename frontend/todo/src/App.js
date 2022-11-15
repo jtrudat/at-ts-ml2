@@ -8,7 +8,7 @@ import { FaCarSide, FaRunning } from 'react-icons/fa'
 let dummyData = [
   {
     _id: '1',
-    todoItem: 'paint the fence',
+    todoItem: 'painting the fence',
     date: '2022-09-15',
     key: 11
   },
